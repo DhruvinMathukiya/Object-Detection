@@ -1,6 +1,14 @@
 dataset/
 datasets/
-venv
+.venv
+yolo_env
+yolo26n.pt
+yolov8n.pt
+yolov8s.pt
+final_tool_weights
+yolov8n.pt
+Saved Model.pt
 __pycache__
 runs
 train-14/weights/metrics
+New folder

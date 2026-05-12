@@ -1,0 +1,6 @@
+train: New folder/train/images
+val: New folder/valid/images
+test: New folder/test/images
+
+nc: 4
+names: ['Bearing', 'Bolt', 'Gear', 'Nut']
