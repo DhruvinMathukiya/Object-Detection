@@ -1,0 +1,6 @@
+dataset/
+datasets/
+venv
+__pycache__
+runs
+train-14/weights/metrics
